@@ -1,0 +1,2 @@
+sharpe_ratio,sortino_ratio,max_drawdown_pct,max_drawdown_duration_days,cagr_pct,cumulative_return_pct,final_capital,total_trades,win_rate_pct,avg_win,avg_loss,avg_holding_period
+1.6439195849073243,2.2391552643848165,40.894233897944204,532,99.73034965359622,1878.663377472317,19786.63377472317,37,48.64864864864865,1980.7829360892626,-858.5524799867553,28 days 18:09:43.783783784
